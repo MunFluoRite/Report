@@ -11,7 +11,7 @@ Linux Report
 -------------
 ### 1. Linux의 개요
 ### 2. Linux의 특성
-### 3. Linux의 장점과 
+### 3. Linux의 장점과 단점 
 ### 4. Linux 기초 명령어
 ### 5. Linux의 보안
 
@@ -66,33 +66,41 @@ Linux의 장점과 단점
 
 Linux의 기초 명령어
 -------------
-mkdir 명령어를 통해 디렉토리 하나를 만든다. 
+**ls**
 
-**mkdir /unifox**
+파일 리스트 보기
 
-그후 만든 디렉토리로 cd 명령어를 통해 들어간다.
+**cd**
 
-**cd /unifox**
+디렉토리 변경
 
-git init을 통해 깃 저장소로 변환한다
+**cp**
 
-**git init**
+파일 복사
 
-touch 명령어로 파일 하나를 만든다.
+**mv**
 
-**touch uf.txt**
+파일 이름 변경 / 파일 위치 변경
 
-이제 깃에게 uf.txt를 주목시키기위해 git add 명령어를 사용한다
+**mkdir**
 
-**git add uf.txt**
+디렉토리 생성 
 
-unifox라는 깃허브 Repository가 있다고 가정하고 온라인과 연결시켜보자
+**rm**
 
-**git remote add origin https://github.com/유저이름/unifox.git**
+파일 삭제
 
-이후 push 명령어를 이용해 unifox Repository의 master 브랜치로 변경사항을 밀어 넣어보자
+**pwd**
 
-**git push origin master**
+현재의 디렉토리 경로를 보여주기
+
+**chmod**
+
+파일 권한 변경
+
+**cat** 
+
+파일의 내용을 화면에 출력 / 파일 생성
 
 
 
