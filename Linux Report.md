@@ -3,7 +3,7 @@ Linux Report
 
 ##### 작성자 : 문형석(FluoRite)
 
-
+참고자료 : https://namu.wiki/w/%EB%A6%AC%EB%88%85%EC%8A%A4  http://www.itworld.co.kr/news/108165
 
 
 
@@ -15,7 +15,6 @@ Linux Report
 ### 4. Linux 기초 명령어
 ### 5. Linux의 보안
 ### 6. Linux의 기본 보안 
-
 
 
 
