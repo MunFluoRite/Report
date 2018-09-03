@@ -6,7 +6,7 @@ Iterator Report
 목차
 -------------
 ### 1. Iterator 란?
-### 2. Iterable한 타입
+### 2. Iterable 한 타입
 ### 3. Iterator 예제코드
 
 
