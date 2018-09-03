@@ -1,4 +1,7 @@
 import glob
 
-for filename in glob.glob('*.avi'):
-    print(filename)
+a  = glob.iglob("*")
+print a
+
+for path in a : 
+    print path
